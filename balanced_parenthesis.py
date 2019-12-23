@@ -1,3 +1,5 @@
+# Python Program for checking balanced parenthesis.
+
 def checker(in_str):
     open_list = ['[', '{', '(']
     close_list = [']', '}', ')']

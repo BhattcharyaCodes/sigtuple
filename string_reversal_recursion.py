@@ -1,3 +1,5 @@
+# Python Program for recursive string reversal.
+
 def reverse(inputS):
 
     if len(inputS) == 0:
